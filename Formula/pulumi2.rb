@@ -1,4 +1,4 @@
-class Pulumi < Formula
+class Pulumi2 < Formula
   desc "Cloud native development platform"
   homepage "https://pulumi.io/"
   url "https://github.com/t0yv0/pulumi.git",
