@@ -3,7 +3,7 @@ class Pulumi2 < Formula
   homepage "https://pulumi.io/"
   url "https://github.com/t0yv0/pulumi.git",
       tag:      "v3.37.0",
-      revision: "ffab52c11ba13f205d1bb27253fb90b68bf86bf1"
+      revision: "3c2f17a284298887f594aa1cf67d172cfcdb41d4"
   license "Apache-2.0"
   head "https://github.com/t0yv0/pulumi.git", branch: "master"
 
